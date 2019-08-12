@@ -48,6 +48,7 @@
                 <configuration>
                     <port>8080</port>
                     <path>/</path>
+                    <!--去掉项目名称-->
                    <!-- <path>/${project.artifactId}</path>-->
                     <charset>utf-8</charset>
                 </configuration>
