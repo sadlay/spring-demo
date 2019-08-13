@@ -24,7 +24,7 @@
         <spring-aop>4.0.0.RELEASE</spring-aop>
         <spring-aspects>4.0.0.RELEASE</spring-aspects>
         <spring-beans>4.0.0.RELEASE</spring-beans>
-        <srping-context>4.0.0.RELEASE</srping-context>
+        <spring-context>4.0.0.RELEASE</spring-context>
         <spring-context-support>4.0.0.RELEASE</spring-context-support>
         <spring-core>4.0.0.RELEASE</spring-core>
         <spring-expression>4.0.0.RELEASE</spring-expression>
@@ -70,8 +70,8 @@
             </dependency>
             <dependency>
                 <groupId>org.springframework</groupId>
-                <artifactId>srping-context</artifactId>
-                <version>${srping-context}</version>
+                <artifactId>spring-context</artifactId>
+                <version>${spring-context}</version>
             </dependency>
             <dependency>
                 <groupId>org.springframework</groupId>
