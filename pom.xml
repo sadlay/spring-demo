@@ -20,7 +20,7 @@
         <maven-compiler-plugin>3.7.0</maven-compiler-plugin>
         <maven-surefire-plugin>2.18.1</maven-surefire-plugin>
         <tomcat7-maven-plugin>2.2</tomcat7-maven-plugin>
-        <junit>4.12</junit>
+        <junit>4.13.1</junit>
         <spring-aop>4.0.0.RELEASE</spring-aop>
         <spring-aspects>4.0.0.RELEASE</spring-aspects>
         <spring-beans>4.0.0.RELEASE</spring-beans>
