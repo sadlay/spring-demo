@@ -23,7 +23,7 @@
         <junit>4.12</junit>
         <spring-aop>4.0.0.RELEASE</spring-aop>
         <spring-aspects>4.0.0.RELEASE</spring-aspects>
-        <spring-beans>4.0.0.RELEASE</spring-beans>
+        <spring-beans>5.3.18</spring-beans>
         <spring-context>4.0.0.RELEASE</spring-context>
         <spring-context-support>4.0.0.RELEASE</spring-context-support>
         <spring-core>4.0.0.RELEASE</spring-core>
