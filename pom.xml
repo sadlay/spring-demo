@@ -38,7 +38,7 @@
         <spring-test>4.0.0.RELEASE</spring-test>
         <spring-tx>4.0.0.RELEASE</spring-tx>
         <spring-web>4.0.0.RELEASE</spring-web>
-        <spring-webmvc>4.0.0.RELEASE</spring-webmvc>
+        <spring-webmvc>5.2.20.RELEASE</spring-webmvc>
         <spring-webmvc-portlet>4.0.0.RELEASE</spring-webmvc-portlet>
         <spring-websocket>4.0.0.RELEASE</spring-websocket>
     </properties>
